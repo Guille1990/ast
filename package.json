@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "exec": "ts-node src/model.ts"
+    "exec": "ts-node src/model.ts",
+    "parse": "ts-node src/tokenizer.ts"
   },
   "keywords": [],
   "author": "",
